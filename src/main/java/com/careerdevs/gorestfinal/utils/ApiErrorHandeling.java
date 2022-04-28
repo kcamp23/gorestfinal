@@ -3,6 +3,7 @@ package com.careerdevs.gorestfinal.utils;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 
+
 public class ApiErrorHandeling {
 
     public static ResponseEntity<?> genericApiError (Exception e) {
