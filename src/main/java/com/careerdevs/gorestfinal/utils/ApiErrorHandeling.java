@@ -5,6 +5,8 @@ import org.springframework.http.ResponseEntity;
 // api error handeling and codes
 
 
+
+
 public class ApiErrorHandeling {
 
     public static ResponseEntity<?> genericApiError (Exception e) {
