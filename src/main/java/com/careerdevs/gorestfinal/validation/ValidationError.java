@@ -5,8 +5,6 @@ import org.json.JSONObject;
 import java.util.HashMap;
 import java.util.Map;
 
-
-
 public class ValidationError {
 
     private final HashMap<String, String> errors = new HashMap<>();
