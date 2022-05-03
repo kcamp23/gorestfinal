@@ -30,3 +30,4 @@ public class ValidationError {
         return new JSONObject(errors).toString();
     }
 }
+// make sure to test validations
