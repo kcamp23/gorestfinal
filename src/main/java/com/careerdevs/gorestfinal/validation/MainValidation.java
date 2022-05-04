@@ -1,5 +1,5 @@
 package com.careerdevs.gorestfinal.validation;
-// check if this is where added or individual class of its own
+// check if this is where added or indiv
 public class MainValidation {
 
 
