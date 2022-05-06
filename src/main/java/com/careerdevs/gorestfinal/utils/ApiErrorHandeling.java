@@ -2,7 +2,9 @@ package com.careerdevs.gorestfinal.utils;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
-// api error handeling and codes
+
+
+
 
 public class ApiErrorHandeling {
 
