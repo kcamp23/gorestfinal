@@ -14,9 +14,7 @@ public class ApiErrorHandeling {
     public static ResponseEntity<?> customApiError (String message, HttpStatus status) {
         return new ResponseEntity<>(message, status);
     }
-
-
-
+    
 }
 
 
