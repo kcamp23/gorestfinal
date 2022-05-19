@@ -8,5 +8,4 @@ public class Post {
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
     private int id;
-
 }
